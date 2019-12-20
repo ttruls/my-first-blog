@@ -25,7 +25,7 @@ SECRET_KEY = '4=u(x8)n2he!wzcwif)b6278f4(c%2x)9%#p&pm%6%_)$o!ecg'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com']
+ALLOWED_HOSTS = ['127.0.0.1', '.pythonanywhere.com', 'www.travmaskinen.se']
 
 
 # Application definition
